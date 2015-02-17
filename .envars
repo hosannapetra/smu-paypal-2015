@@ -1,0 +1,10 @@
+!#/bin/bash
+export ENV=debug
+export PAYPAL_MODE=sandbox
+export PAYPAL_CLIENT_ID=AUjRrUnjmKjL46BFJsRzv_B75aXX2l44uIg_EWjseUC5Wa8NKo-lDWtyvK8iWpykgHduPSBTqJDKTey7
+export PAYPAL_CLIENT_SECRET=EOe3sIkZge7DGx0DTc7u_iGrw7sayBKKMsrZ4FIenJPt0uJpmu5GzPx9RpfYLAtNhrV6WS5EdB8THljr
+export FIREBASE_TOKEN=sDsdf324fRMtKc6zojplvjaOW5MnyuhQzKTrq8wj
+export FIREBASE_URL=https://your-project.firebaseio.com
+export APP_BASE_URL=http://ulkkbc1e933e.laurenceputra.koding.io:3000
+export APP_PAYPAL_SUCCESS_CALLBACK=/payment/execute/
+export APP_PAYPAL_CANCEL_CALLBACK=/payment/cancel/
